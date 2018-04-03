@@ -1,8 +1,32 @@
 # Table of Contents
 
 * [About Constrained Cooking](#about-constrained-cooking)
+   * [Goals](#goals)
 * [Developmenet History](#development-history)
+   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
 
 # About Constrained Cooking
 
 Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.
+
+## Goals
+
+We have several goals that will be included in our final system:
+
+   * Users will be able to upload and share recipes
+   * Recipes can be filtered according to dietary restrictions
+   * Recipes will have an estimated cost per serving, number of servings, and estimated time to cook
+   * Vendors will be able to login and establish a profile
+      * Include stock, cost, location, and hours
+   * Admin users will be able to login
+      * Edit content, remove content, and verify vendor users
+
+# Development History
+
+Development of Constrained Cooking followed practices of [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s18/modules/project-management/).  Milestones are used to track the progress on groups of issues; they consist of tasks that take 2-3 days.  To manage progress within a  Milstone, GitHub projects are created with three columns coressponding to: Backlog, In Progess, and Done.
+
+## Milestone 1: Mockup Development
+
+This milestone started on April 2, 2018 and ended on ...
+
+The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like.  The mockup was a set of HTML pages developed in Meteor.
