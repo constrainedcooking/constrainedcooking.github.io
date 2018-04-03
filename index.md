@@ -1,9 +1,9 @@
 # Table of Contents
 
 * [About Constrained Cooking](#about-constrained-cooking)
-   * [Goals](#goals)
-* [Developmenet History](#development-history)
-   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
+  * [Goals](#goals)
+* [Development History](#development-history)
+  * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
 
 # About Constrained Cooking
 
@@ -23,10 +23,11 @@ We have several goals that will be included in our final system:
 
 # Development History
 
-Development of Constrained Cooking followed practices of [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s18/modules/project-management/).  Milestones are used to track the progress on groups of issues; they consist of tasks that take 2-3 days.  To manage progress within a  Milstone, GitHub projects are created with three columns coressponding to: Backlog, In Progess, and Done.
+Development of Constrained Cooking followed practices of [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s18/modules/project-management/).  Milestones are used to track the progress on groups of issues; they consist of tasks that take 2-3 days.  To manage progress within a Milestone, GitHub projects are created with three columns corresponding to: Backlog, In Progress, and Done.
 
 ## Milestone 1: Mockup Development
 
 This milestone started on April 2, 2018 and ended on ...
 
 The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like.  The mockup was a set of HTML pages developed in Meteor.
+
