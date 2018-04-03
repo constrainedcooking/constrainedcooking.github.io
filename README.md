@@ -1,2 +1,2 @@
 # constrainedcooking.github.io
-home page for Constrained Cooking organization
+This repo contains documentation for the Constrained Cooking system.  See index.md for the source.
