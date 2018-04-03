@@ -12,14 +12,13 @@ Constrained Cooking is a Meteor application that creates a way for students to s
 ## Goals
 
 We have several goals that will be included in our final system:
-
-   * Users will be able to upload and share recipes
-   * Recipes can be filtered according to dietary restrictions
-   * Recipes will have an estimated cost per serving, number of servings, and estimated time to cook
-   * Vendors will be able to login and establish a profile
-      * Include stock, cost, location, and hours
-   * Admin users will be able to login
-      * Edit content, remove content, and verify vendor users
+* Users will be able to upload and share recipes
+* Recipes can be filtered according to dietary restrictions
+* Recipes will have an estimated cost per serving, number of servings, and estimated time to cook
+* Vendors will be able to login and establish a profile
+ * Include stock, cost, location, and hours
+* Admin users will be able to login
+ * Edit content, remove content, and verify vendor users
 
 # Development History
 
