@@ -28,7 +28,7 @@ Development of Constrained Cooking followed practices of [Issue Driven Project M
 
 This milestone started on April 2, 2018 and ended on ...
 
-The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like.  Below are layouts of the main recipe page, add recipe page, vendor stock page, and the user profile page.
+The goal of [Milestone 1](https://github.com/orgs/constrainedcooking/projects/2) was to create mockup pages of what we expect the final system to look like.  Below are layouts of the main recipe page, add recipe page, vendor stock page, and the user profile page.
 
 <img src="images/recipepagemockup.PNG"/>
 <img src="images/createrecipemockup.PNG"/>
