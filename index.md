@@ -28,5 +28,9 @@ Development of Constrained Cooking followed practices of [Issue Driven Project M
 
 This milestone started on April 2, 2018 and ended on ...
 
-The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like.  The mockup was a set of HTML pages developed in Meteor.
+The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like.  Below are layouts of the main recipe page, add recipe page, vendor stock page, and the user profile page.
 
+<img src="images/recipepagemockup.png"/>
+<img src="images/createrecipemockup.png"/>
+<img src="images/vendoritemsmockup.png"/>
+<img src="images/profilepagemockup.png"/>
