@@ -9,6 +9,18 @@
 
 Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.
 
+# About the Team
+
+Our team is comprised of Aidan Akamine, Collin Takasaki, Cristina McLaughlin, and Brandon Kang.
+
+Aidan...
+
+Collin ...
+
+Cristina plans to bring her eye for design to the team.  Tweaking colors, finding pictures, and fixing padding and margins are some of her favorite things to do.
+
+Brandon ...
+
 ## Goals
 
 We have several goals that will be included in our final system:
