@@ -5,12 +5,12 @@
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Add Functionality](#milestone-2-add-functionality)
-
+* [About the Team](#about-the-team)
 # About Constrained Cooking
 
 Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.
 
-## Goals
+# Goals
 
 We have several goals that will be included in our final system:
 * Users will be able to upload and share recipes
@@ -62,7 +62,7 @@ Next, we implemented the recipe home page.  This shows the recipes as cards with
 This milestone started on April 12, 2018 and end on ...
 
 
-# About the Team
+# [About the Team]
 
 Our team is comprised of Aidan Akamine, Collin Takasaki, Cristina McLaughlin, and Brandon Kang.
 
