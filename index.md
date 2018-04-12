@@ -49,7 +49,7 @@ Profile Page
 
 Later we implemented some of these pages in Meteor.  We did not implement databases yet, so the recipe cards and user pages are currently hardcoded.
 
-The first page we completed was the landing page.  We used Photoshop to create the Constrained Cooking title, and found vector icons to add to our website descriptions.  We plan on adding more to the landing page later, to add more functionality, such as linking icons to certain pages.
+The first page we completed was the landing page.  We used Photoshop to create the Constrained Cooking title, and found vector icons to add to our website descriptions.  We plan on adding more to the landing page later such as linking icons to certain pages and maybe having a running feed of new recipes.
 
 <img src="images/landingpage.PNG"/>
 
