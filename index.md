@@ -58,7 +58,9 @@ Next, we implemented the recipe home page.  This shows the recipes as cards with
 
 <img src="images/recipehome.PNG"/>
 
-The system also has a vendor role.  The page below shows how they can fill a form 
+The system also has a vendor role.  The page below shows how they can fill a form to add an ingredient that they sell.
+
+<img src="images/additem.PNG"/>
 
 ## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
 
