@@ -62,7 +62,7 @@ The system also has a vendor role.  The page below shows how they can fill a for
 
 <img src="images/additem.PNG"/>
 
-Lastly, we also implemented a view [profile page](http://constrainedcooking.meteorapp.com/#/profileview).  This shows general information of the person's account.
+Lastly, we also implemented a view [profile page](http://constrainedcooking.meteorapp.com/#/profileview).  This shows general information of the person's account.  It's currently in a card format, but we plan on changing it into a larger diaply which has a person's general information, along with dietary habits, and favorited recipes.
 
 ## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
 
