@@ -58,6 +58,8 @@ Next, we implemented the recipe home page.  This shows the recipes as cards with
 
 <img src="images/recipehome.PNG"/>
 
+The system also has a vendor role.  The page below shows how they can fill a form 
+
 ## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
 
 This milestone started on April 12, 2018 and end on ...
