@@ -31,15 +31,19 @@ This milestone started on April 2, 2018 and ended on April 12, 2018.
 The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like and implement the basics in Meteor.  Below are layouts our team sketched of several page ideas.
 
 <img src="images/recipepagemockup.PNG"/>
+
 Recipe Home Page
 
 <img src="images/createrecipemockup.PNG"/>
+
 Add Recipe Page
 
 <img src="images/vendoritemsmockup.PNG"/>
+
 Vendor Stock Page
 
 <img src="images/profilepagemockup.PNG"/>
+
 Profile Page
 
 Later we implemented some of these pages in Meteor.  We did not implement databases yet, so the recipe cards and user pages are currently hardcoded.
@@ -48,6 +52,9 @@ The first page we completed was the landing page.  We used Photoshop to create t
 
 <img src="images/landingpage.PNG"/>
 
+Next, we implemented the recipe home page.  This shows the recipes as cards with large pictures, descriptions, and tags at the bottom.  The recipes displayed are currently hard coded.  We also plan on turning the tag section into active buttons so a user can click them and filter by tags.
+
+<img src="images/recipehome.PNG"/>
 
 ## [Milestone 2: ](https://github.com/orgs/constrainedcooking/projects/3)
 
