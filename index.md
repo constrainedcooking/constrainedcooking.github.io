@@ -58,9 +58,11 @@ Next, we implemented the recipe [home page](http://constrainedcooking.meteorapp.
 
 <img src="images/recipehome.PNG"/>
 
-The system also has a vendor role.  The page below shows how they can fill a form to add an ingredient that they sell.
+The system also has a vendor role.  The page below shows how they can fill a form to [add an ingredient](http://constrainedcooking.meteorapp.com/#/addvendoritem) that they sell along with viewing a [list](http://constrainedcooking.meteorapp.com/#/listvendor) of items they have.
 
 <img src="images/additem.PNG"/>
+
+Lastly, we also implemented a view [profile page](http://constrainedcooking.meteorapp.com/#/profileview).  This shows general information of the person's account.
 
 ## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
 
