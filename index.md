@@ -25,15 +25,28 @@ We have several goals that will be included in our final system:
 Development of Constrained Cooking followed practices of [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s18/modules/project-management/).  Milestones are used to track the progress on groups of issues; they consist of tasks that take 2-3 days.  To manage progress within a Milestone, GitHub projects are created with three columns corresponding to: Backlog, In Progress, and Done.
 
 ## [Milestone 1: Mockup Development](https://github.com/orgs/constrainedcooking/projects/2)
-This milestone started on April 2, 2018 and ended on April
 
-The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like.  Below are layouts of the main recipe page, add recipe page, vendor stock page, and the user profile page.
+This milestone started on April 2, 2018 and ended on April 12, 2018.
+
+The goal of Milestone 1 was to create mockup pages of what we expect the final system to look like and implement the basics in Meteor.  Below are layouts our team sketched of several page ideas.
 
 <img src="images/recipepagemockup.PNG"/>
-<img src="images/createrecipemockup.PNG"/>
-<img src="images/vendoritemsmockup.PNG"/>
-<img src="images/profilepagemockup.PNG"/>
+Recipe Home Page
 
+<img src="images/createrecipemockup.PNG"/>
+Add Recipe Page
+
+<img src="images/vendoritemsmockup.PNG"/>
+Vendor Stock Page
+
+<img src="images/profilepagemockup.PNG"/>
+Profile Page
+
+Later we implemented some of these pages in Meteor.  We did not implement databases yet, so the recipe cards and user pages are currently hardcoded.
+
+The first page we completed was the landing page.  We used Photoshop to create the Constrained Cooking title, and found vector icons to add to our website descriptions.  We plan on adding more to the landing page later, to add more functionality, such as linking icons to certain pages.
+
+<img src="images/landingpage.PNG"/>
 
 
 ## [Milestone 2: ](https://github.com/orgs/constrainedcooking/projects/3)
