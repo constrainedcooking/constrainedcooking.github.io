@@ -64,7 +64,7 @@ The system also has a vendor role.  The page below shows how they can fill a for
 
 ## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
 
-This milestone started on April 12, 2018 and end on ...
+This milestone started on April 12, 2018 and ended on ...
 
 
 # About the Team
