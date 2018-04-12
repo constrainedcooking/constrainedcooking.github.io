@@ -62,7 +62,7 @@ Next, we implemented the recipe home page.  This shows the recipes as cards with
 This milestone started on April 12, 2018 and end on ...
 
 
-# [About the Team]
+# About the Team
 
 Our team is comprised of Aidan Akamine, Collin Takasaki, Cristina McLaughlin, and Brandon Kang.
 
