@@ -4,6 +4,7 @@
   * [Goals](#goals)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
+  * [Milestone 2: Add Functionality](#milestone-2-add-functionality)
 
 # About Constrained Cooking
 
@@ -24,7 +25,7 @@ We have several goals that will be included in our final system:
 
 Development of Constrained Cooking followed practices of [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s18/modules/project-management/).  Milestones are used to track the progress on groups of issues; they consist of tasks that take 2-3 days.  To manage progress within a Milestone, GitHub projects are created with three columns corresponding to: Backlog, In Progress, and Done.
 
-## [Milestone 1: Mockup Development](https://github.com/orgs/constrainedcooking/projects/2)
+## [Milestone 1: Mockup Development](https://github.com/constrainedcooking/constrainedcooking/projects/1)
 
 This milestone started on April 2, 2018 and ended on April 12, 2018.
 
@@ -56,7 +57,10 @@ Next, we implemented the recipe home page.  This shows the recipes as cards with
 
 <img src="images/recipehome.PNG"/>
 
-## [Milestone 2: ](https://github.com/orgs/constrainedcooking/projects/3)
+## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
+
+This milestone started on April 12, 2018 and end on ...
+
 
 # About the Team
 
