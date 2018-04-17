@@ -15,6 +15,8 @@ At the landing page, a user can view the recipe homepage, or create an account t
 
 <img src="images/landingpagenew.PNG"/>
 
+<img src="images/homepagenew.PNG"/>
+
 After a user creates an account,
 # Goals
 
