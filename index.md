@@ -2,6 +2,7 @@
 
 * [About Constrained Cooking](#about-constrained-cooking)
   * [Goals](#goals)
+  * [Installation](#installation)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Add Functionality](#milestone-2-add-functionality)
@@ -21,7 +22,27 @@ After a user creates an account, they can create recipes using the add recipe pa
 
 <img src="images/addrecipenew.PNG"/>
 
-# Goals
+## Goals
+
+## Installation
+
+To install Constrained Cooking, first [install Meteor](https://www.meteor.com/install).
+
+Next, [download a copy of Constrained Cooking](https://github.com/constrainedcooking/constrainedcooking.git), or clone it to your desktop.
+
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+Find the application at [http://localhost:3000](http://localhost:3000).
 
 We have several goals that will be included in our final system:
 * Users will be able to upload and share recipes
