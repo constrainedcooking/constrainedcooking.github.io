@@ -17,7 +17,10 @@ At the landing page, a user can view the recipe homepage, or create an account t
 
 <img src="images/homepagenew.PNG"/>
 
-After a user creates an account,
+After a user creates an account, they can create recipes using the add recipe page:
+
+
+
 # Goals
 
 We have several goals that will be included in our final system:
