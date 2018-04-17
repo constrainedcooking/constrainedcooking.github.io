@@ -13,7 +13,7 @@ Constrained Cooking is a Meteor application that creates a way for students to s
 
 At the landing page, a user can view the recipe homepage, or create an account to view more content.
 
-
+<img src="images/landingpagenew.PNG"/>
 
 After a user creates an account,
 # Goals
