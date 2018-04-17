@@ -11,6 +11,11 @@
 
 Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.
 
+At the landing page, a user can view the recipe homepage, or create an account to view more content.
+
+
+
+After a user creates an account,
 # Goals
 
 We have several goals that will be included in our final system:
