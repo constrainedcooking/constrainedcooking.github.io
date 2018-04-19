@@ -97,7 +97,7 @@ Lastly, we also implemented a view [profile page](http://constrainedcooking.mete
 
 ## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
 
-This milestone started on April 12, 2018 and ended on ...
+This milestone started on April 12, 2018 and ended on April 24, 2018.  The goal of this milestone was to improve functionality of the site.  This included implementing databases rather than using hardcoded items such as recipes, users, and tags.
 
 
 # About the Team
