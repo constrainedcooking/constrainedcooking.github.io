@@ -37,7 +37,7 @@ Users can then view the Recipe Homepage.  They do not need to create an account 
 
 ## Community Feedback
 
-### Noah Penner (College Student who Dorms)
+### Noah Penner (Student who Dorms)
 
 He didn't really feel like the website was helpful because he doesn't have a fridge or a microwave in his dorm so he can't cook anything.  When he actually tested the application he thought it was "cute", he liked the recipe cards because the pictures were eyecatching.  He thought the add recipe page was tedious and people wouldn't be willing to contribute to the system unless there was a "gamification" experience.
 
