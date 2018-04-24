@@ -20,7 +20,7 @@ Below are some screenshots of the current running application:
 
 <img src="images/landingpagenew.PNG"/>
 
-The application brings the user to a landing page where they can see the theme of the application.  It has general information to draw in students and vendors.  We created the graphics with college students in mind; they are simple, colorful, images that are eye-catching, but not overbearing.
+User's are immediately brought to a landing page where they can see the theme of the application.  It has general information for prospective users.  We created the graphics with college students in mind; they are simple, colorful, images that are eye-catching, but not overbearing.
 
 <img src="images/homepagenew.PNG"/>
 
