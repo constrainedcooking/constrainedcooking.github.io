@@ -1,7 +1,6 @@
 # Table of Contents
 
 * [About Constrained Cooking](#about-constrained-cooking)
-  * [Goals](#goals)
   * [Installation](#installation)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
@@ -10,7 +9,11 @@
 
 # About Constrained Cooking
 
-Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.  We have several goals for this app, but our focus will be on allowing users to browse and upload recipes.  The system will have a search function where students can find recipes according to dietary restrictions
+Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.  We have several goals for this app, but our focus will be on allowing users to browse and upload recipes.  The system will have a search function where students can find recipes according to dietary restrictions and other useful tags.  Each recipe will have an estimated cost per serving and cook time.
+
+In addition, we plan on implementing a vendor system, where local food vendors can establish an profile.  The vendors will be able to list their inventory along with with the cost per ingredient.  Vendors will have a profile page to show their location and hours.
+
+Lastly, the app has an admin role to edit content, remove content, and verify vendor users.
 
 At the landing page, a user can view the recipe homepage, or create an account to view more content.
 
@@ -21,17 +24,6 @@ At the landing page, a user can view the recipe homepage, or create an account t
 After a user creates an account, they can create recipes using the add recipe page:
 
 <img src="images/addrecipenew.PNG"/>
-
-## Goals
-
-We have several goals that will be included in our final system:
-* Users will be able to upload and share recipes
-* Recipes can be filtered according to dietary restrictions
-* Recipes will have an estimated cost per serving, number of servings, and estimated time to cook
-* Vendors will be able to login and establish a profile
-  * Include stock, cost, location, and hours
-* Admin users will be able to login
-  * Edit content, remove content, and verify vendor users
 
 ## Installation
 
