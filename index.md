@@ -37,7 +37,7 @@ Users can then view the Recipe Homepage.  They do not need to create an account 
 
 ## Community Feedback
 
-#### Noah Penner (Student who Dorms)
+#### Noah (Student who Dorms)
 
 > I'd use this to find recipes, but I wouldn't contribute anything.
 
