@@ -52,7 +52,7 @@ Although she liked the visual appeal of the website, she truthfully said that sh
 Since she commutes to school every day she was a little disappointed that the vendor page was only applicable to small-scale sellers, she was hoping that the site could be used by larger venders such as supermarkets to tell her when sales were going on. 
 
 #### Robert (Works at UH)
->Cool site
+>Cool site.
 He said that since he sometimes purchases produce from the vendors near the atm’s at campus center, the site could be potentially very useful to him. After trying the site out, he said that the homepage was very fitting for the website and that the navigation bar was intuitive and easy to use. 
 
 
