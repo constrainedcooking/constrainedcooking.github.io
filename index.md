@@ -57,6 +57,9 @@ Since she commutes to school every day she was a little disappointed that the ve
 
 He said that since he sometimes purchases produce from the vendors near the atm’s at campus center, the site could be potentially very useful to him. After trying the site out, he said that the homepage was very fitting for the website and that the navigation bar was intuitive and easy to use. 
 
+#### Emily(Engineer at Nan, Inc) 
+>I like the idea.
+She though the website was a good idea and that the vendor page had a lot of potential. Since she does not frequent UH Manoa very often and is quite busy with work she probably wouldn’t really be able to utilize the website. She did say however that since her husband works nearby UH and does most of the cooking, he might be able to better use the site than her. 
 
 ## Installation
 
