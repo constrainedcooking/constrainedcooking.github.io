@@ -11,13 +11,13 @@
 
 Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.  We have several goals for this app, but our focus will be on allowing users to browse and upload recipes.  The system will have a search function where students can find recipes according to dietary restrictions and other useful tags.  Each recipe will have an estimated cost per serving and cook time.
 
-In addition, we plan on implementing a vendor system, where local food vendors can establish an profile.  The vendors will be able to list their inventory along with with the cost per ingredient.  Vendors will have a profile page to show their location and hours.
+The application also has a vendor system, where local food vendors can establish a profile.  Vendors can list their produce or items along with a price for each item.  A recipe page will then direct a user to vendors who sell each ingredient for their dish.  Vendors will have a profile page to show their location and hours.  Lastly, the app has an admin role.  These administrators can edit all content in the system or remove inappropriate content.
 
-Lastly, the app has an admin role to edit content, remove content, and verify vendor users.
-
-At the landing page, a user can view the recipe homepage, or create an account to view more content.
+Below are some screenshots of the current running application:
 
 <img src="images/landingpagenew.PNG"/>
+
+At the landing page, a user can view the recipe homepage.  They do not need an account to scroll through recipes or view a recipe page, but they can create an account to have access to more content.
 
 <img src="images/homepagenew.PNG"/>
 
