@@ -43,6 +43,10 @@ Users can then view the Recipe Homepage.  They do not need to create an account 
 
 He didn't really feel like the website was helpful because he doesn't have a fridge or a microwave in his dorm so he can't cook anything.  When he actually tested the application he thought it was "cute", he liked the recipe cards because the pictures were eyecatching.  He thought the add recipe page was tedious and people wouldn't be willing to contribute to the system unless there was a "gamification" experience.
 
+### Mayce (Student who Dorms)
+
+Although she liked the visual appeal of the website, she truthfully said that she probably would not use the website very often. Since she dorms at UH, she is obligated to purchase a meal plan and thus doesn't have too much of a need to craft her own meals. One thing she did like about the application however, was the idea of having local farmers and distributors being able to have an online presence on the site. She liked the idea of the website being another place to promote eating local.
+
 ## Installation
 
 To install Constrained Cooking, first [install Meteor](https://www.meteor.com/install).
