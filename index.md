@@ -2,6 +2,7 @@
 
 * [About Constrained Cooking](#about-constrained-cooking)
   * [View the System](#view-the-system)
+  * [Community Feedback](#community-feedback)
   * [Installation](#installation)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
@@ -10,9 +11,13 @@
 
 # About Constrained Cooking
 
-Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to limited kitchen resources, limited ingredients, and limited time.  We have several goals for this app, but our focus will be on allowing users to browse and upload recipes.  The system will have a search function where students can find recipes according to dietary restrictions and other useful tags.  Each recipe will have an estimated cost per serving and cook time.
+If you've ever dormed or attended college away from home, you'd know that cooking and college students are like oil and water.  They just don't mix.  Sometimes it's limited kitchen access, limited time, limited resources, or limited knowledge of how to actually cook; but it boils down to students often taking a much unhealthier option of takeout or preprocessed foods.
+
+Constrained Cooking is a Meteor application that creates a way for students to share creative recipes tailored to the limitations of a normal college student.  We have several goals for this app, but our focus will be on allowing users to browse and upload recipes.  The system will have a search function where students can find recipes according to dietary restrictions and other useful tags.  Each recipe will have an estimated cost per serving and cook time.
 
 The application also has a vendor system, where local food vendors can establish a profile.  Vendors can list their produce or items along with a price for each item.  A recipe page will then direct a user to vendors who sell each ingredient for their dish.  Vendors will have a profile page to show their location and hours.  Lastly, the app has an admin role.  These administrators can edit all content in the system or remove inappropriate content.
+
+Constrained Cooking intends to solve the issue of cooking access for the UH community by making it easier for students to locate recipes and ingredients.
 
 ## View the System
 
@@ -24,9 +29,11 @@ User's are immediately brought to a landing page where they can see the theme of
 
 <img src="images/homepagenew.PNG"/>
 
-After a user creates an account, they can create recipes using the add recipe page:
+Users can then view the Recipe Homepage.  They do not need to create an account to scroll through the homepage or view recipe pages.  However, they can create an account to access more content.
 
 <img src="images/addrecipenew.PNG"/>
+
+## Community Feedback
 
 ## Installation
 
