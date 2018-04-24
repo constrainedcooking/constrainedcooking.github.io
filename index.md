@@ -59,6 +59,7 @@ He said that since he sometimes purchases produce from the vendors near the atmâ
 
 #### Emily(Engineer at Nan, Inc) 
 >I like the idea.
+
 She though the website was a good idea and that the vendor page had a lot of potential. Since she does not frequent UH Manoa very often and is quite busy with work she probably wouldnâ€™t really be able to utilize the website. She did say however that since her husband works nearby UH and does most of the cooking, he might be able to better use the site than her. 
 
 ## Installation
