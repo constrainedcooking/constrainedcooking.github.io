@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [About Constrained Cooking](#about-constrained-cooking)
+  * [View the System](#view-the-system)
   * [Installation](#installation)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
@@ -13,11 +14,13 @@ Constrained Cooking is a Meteor application that creates a way for students to s
 
 The application also has a vendor system, where local food vendors can establish a profile.  Vendors can list their produce or items along with a price for each item.  A recipe page will then direct a user to vendors who sell each ingredient for their dish.  Vendors will have a profile page to show their location and hours.  Lastly, the app has an admin role.  These administrators can edit all content in the system or remove inappropriate content.
 
+## View the System
+
 Below are some screenshots of the current running application:
 
 <img src="images/landingpagenew.PNG"/>
 
-At the landing page, a user can view the recipe homepage.  They do not need an account to scroll through recipes or view a recipe page, but they can create an account to have access to more content.
+The application brings the user to a landing page where they can see the theme of the application.  It has general information to draw in students and vendors.  We created the graphics with college students in mind; they are simple, colorful, images that are eye-catching, but not overbearing.
 
 <img src="images/homepagenew.PNG"/>
 
