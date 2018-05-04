@@ -33,15 +33,15 @@ Users can then view the Recipe Homepage.  They do not need to create an account 
 
 <img src="images/user_edit.png" width="350"/>
 
-After logging in a user can view and edit their profile page.  They can modify their image along with dietay habits.
+After logging in a user can view and edit their profile page.  They can modify their image along with dietary habits.
 
 <img src="images/addrecipenew.PNG"/>
 
 After being logged in, the user can also contribute their own recipes on the add recipe page.  They can fill out the form and press submit.
 
 
-<img src="images/vendor_view.png" width="300" floated="left"/>
-<img src="images/all_items.png" width="300" floated="right"/>
+<img src="images/vendor_view.png" width="275" floated="left"/>
+<img src="images/all_items.png" width="275" floated="right"/>
 <img src="images/vendor_items.png" width="350"/>
 
 Users can search through a list of vendors to see items sold on a vendor to vendor basis or look at all items as a whole.
@@ -50,6 +50,8 @@ Users can search through a list of vendors to see items sold on a vendor to vend
 <img src="images/vendor_edit_2.png" width="350"/>
 
 When a vendor is using the website, they can edit their current stock in the vendor homepage.  Here they can add items along with prices per unit.
+
+Administrators can also view vendors and users that frequent the site.
 
 ## Community Feedback
 
