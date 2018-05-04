@@ -147,7 +147,7 @@ server/
    main.js       # import all the server-side js files.
 ```
 
-Constrained Cooking relies on three different Javascript classes: [recipe] (https://github.com/constrainedcooking/constrainedcooking/app/imports/api/recipe/recipe.js), [users](https://github.com/constrainedcooking/constrainedcooking/app/imports/api/user/user.js), [vendors](https://github.com/constrainedcooking/constrainedcooking/app/imports/api/vendor/vendor.js).
+Constrained Cooking relies on three different Javascript classes: [recipe](https://github.com/constrainedcooking/constrainedcooking/blob/master/app/imports/api/recipe/recipe.js), [users](https://github.com/constrainedcooking/constrainedcooking/blob/master/app/imports/api/user/user.js), [vendors](https://github.com/constrainedcooking/constrainedcooking/blob/master/app/imports/api/vendor/vendor.js).
 
 # Development History
 
