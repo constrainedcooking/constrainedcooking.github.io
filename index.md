@@ -40,8 +40,8 @@ After logging in a user can view and edit their profile page.  They can modify t
 After being logged in, the user can also contribute their own recipes on the add recipe page.  They can fill out the form and press submit.
 
 
-<img src="images/vendor_view.png" width="250" floated="left"/>
-<img src="images/all_items.png" width="250" floated="right"/>
+<img src="images/vendor_view.png" width="300" floated="left"/>
+<img src="images/all_items.png" width="300" floated="right"/>
 <img src="images/vendor_items.png" width="350"/>
 
 Users can search through a list of vendors to see items sold on a vendor to vendor basis or look at all items as a whole.
