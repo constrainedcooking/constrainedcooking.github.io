@@ -40,14 +40,14 @@ After logging in a user can view and edit their profile page.  They can modify t
 After being logged in, the user can also contribute their own recipes on the add recipe page.  They can fill out the form and press submit.
 
 
-<img src="images/vendor_view.png" size="medium"/>
-<img src="images/all_items.png" size="medium"/>
-<img src="images/vendor_items.png" size="medium"/>
+<img src="images/vendor_view.png" size="small"/>
+<img src="images/all_items.png" size="small"/>
+<img src="images/vendor_items.png" size="small"/>
 
 Users can search through a list of vendors to see items sold on a vendor to vendor basis or look at all items as a whole.
 
-<img src="images/vendor_edit_1.png" size="medium"/>
-<img src="images/vendor_edit_2.png" size="medium"/>
+<img src="images/vendor_edit_1.png" size="small"/>
+<img src="images/vendor_edit_2.png" size="small"/>
 
 When a vendor is using the website, they can edit their current stock in the vendor homepage.  Here they can add items along with prices per unit.
 
