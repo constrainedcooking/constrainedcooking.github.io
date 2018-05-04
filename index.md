@@ -31,7 +31,7 @@ User's are immediately brought to a landing page where they can see the theme of
 
 Users can then view the Recipe Homepage.  They do not need to create an account to scroll through the homepage or view recipe pages.  However, they can create an account to access more content.  If they find a recipe they want to view, they can click on the card which take them to the full recipe.
 
-<img src="images/user_edit.png"/>
+<img src="images/user_edit.png" size="medium"/>
 
 After logging in a user can view and edit their profile page.  They can modify their image along with dietay habits.
 
@@ -40,14 +40,14 @@ After logging in a user can view and edit their profile page.  They can modify t
 After being logged in, the user can also contribute their own recipes on the add recipe page.  They can fill out the form and press submit.
 
 
-<img src="images/vendor_view.png"/>
-<img src="images/all_items.png"/>
-<img src="images/vendor_items.png"/>
+<img src="images/vendor_view.png" size="medium"/>
+<img src="images/all_items.png" size="medium"/>
+<img src="images/vendor_items.png" size="medium"/>
 
 Users can search through a list of vendors to see items sold on a vendor to vendor basis or look at all items as a whole.
 
-<img src="images/vendor_edit_1.png"/>
-<img src="images/vendor_edit_2.png"/>
+<img src="images/vendor_edit_1.png" size="medium"/>
+<img src="images/vendor_edit_2.png" size="medium"/>
 
 When a vendor is using the website, they can edit their current stock in the vendor homepage.  Here they can add items along with prices per unit.
 
