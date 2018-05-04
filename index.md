@@ -29,9 +29,9 @@ Below are some screenshots of the current running application:
 
 User's are immediately brought to a landing page where they can see the theme of the application.  It has general information for prospective users.  We created the graphics with college students in mind; they are simple, colorful, images that are eye-catching, but not overbearing.
 
-<img src="images/viewrecipepage.PNG"/>
-
 <img src="images/viewrecipe.PNG"/>
+
+<img src="images/viewrecipepage.PNG"/>
 
 Users can then view the Recipe Homepage.  They do not need to create an account to scroll through the homepage.  However, they can create an account to access more content.  If they find a recipe they want to view, they can click on the card which takes them to the full recipe after logging in.
 
