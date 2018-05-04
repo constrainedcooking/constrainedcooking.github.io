@@ -3,7 +3,9 @@
 * [About Constrained Cooking](#about-constrained-cooking)
   * [View the System](#view-the-system)
   * [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
   * [Installation](#installation)
+  * [Modifying the System](#modifying-the-system)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Add Functionality](#milestone-2-add-functionality)
@@ -27,7 +29,7 @@ Below are some screenshots of the current running application:
 
 User's are immediately brought to a landing page where they can see the theme of the application.  It has general information for prospective users.  We created the graphics with college students in mind; they are simple, colorful, images that are eye-catching, but not overbearing.
 
-<img src="images/homepagenew.PNG"/>
+<img src="images/viewrecipepage.PNG"/>
 
 <img src="images/viewrecipe.PNG"/>
 
@@ -82,6 +84,7 @@ He said that since he sometimes purchases produce from the vendors near the atmâ
 
 Emily said that, while she doesn't plan on using the website very often, she liked the search bar. She thought it was a nice touch to more easily navigate around recipes.
 
+# Developer Guide
 
 ## Installation
 
@@ -102,6 +105,16 @@ $ meteor npm run start
 ```
 
 Find the application at [http://localhost:3000](http://localhost:3000).
+
+## Modifying the System
+
+The top-level directory structure contains:
+
+```
+app/        # holds the Meteor application sources
+config/     # holds configuration files, such as settings.development.json and proeduction.development.json
+.gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
+```
 
 # Development History
 
