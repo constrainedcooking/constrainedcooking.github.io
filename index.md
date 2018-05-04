@@ -29,6 +29,8 @@ User's are immediately brought to a landing page where they can see the theme of
 
 <img src="images/homepagenew.PNG"/>
 
+<img src="images/viewrecipe.PNG"/>
+
 Users can then view the Recipe Homepage.  They do not need to create an account to scroll through the homepage.  However, they can create an account to access more content.  If they find a recipe they want to view, they can click on the card which takes them to the full recipe after logging in.
 
 <img src="images/user_edit.png" width="350"/>
