@@ -110,11 +110,11 @@ This milestone started on April 24, 2018 and ended on May 4, 2018. Milestone 3 b
 
 For the vendor section:
 
- -[x] Viewers of the site can now not only view recipies but also a full list of items solds by vendors
+ * Viewers of the site can now not only view recipies but also a full list of items solds by vendors
 
- -[x] Viewers of the site can look at a list of vendors to view the specific items sold by a vendor
+ * Viewers of the site can look at a list of vendors to view the specific items sold by a vendor
 
- -[x] Vendors can update, add and delete items they sell or do not sell anymore
+ * Vendors can update, add and delete items they sell or do not sell anymore
 
 Overall Milestone 3 represents the first full version of this website. We present a funcitonal, appealing and hopefully easy to use website for the cooking needs of students at UH Manoa.
 
