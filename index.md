@@ -116,6 +116,39 @@ config/     # holds configuration files, such as settings.development.json and p
 .gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
 ```
 
+The app/ directory has this top-level structure:
+
+```
+.meteor/         # holds the meteor template 
+
+client/
+  main.html      # the <head>
+  main.js        # import all the client-side html and js files
+  style.css      # styles for landing page
+
+imports/
+  api/           # Define collection processing code (client + server side)
+    recipe/
+    user/
+    vendor/
+  startup/       # Define code to run when system starts up (client-only, server-only)
+    both/
+    client/        
+    server/        
+  ui/
+    components/  # templates that appear inside a page template.
+    layouts/     # Layouts contain common elements to all pages (i.e. menubar and footer)
+    pages/       # Pages are navigated to by FlowRouter routes
+
+public/          
+  images/        # holds static images for landing page
+ 
+server/
+   main.js       # import all the server-side js files.
+```
+
+Constrained Cooking relies on three different Javascript classes: [recipe] (https://github.com/constrainedcooking/constrainedcooking/app/imports/api/recipe/recipe.js), [users](https://github.com/constrainedcooking/constrainedcooking/app/imports/api/user/user.js), [vendors](https://github.com/constrainedcooking/constrainedcooking/app/imports/api/vendor/vendor.js).
+
 # Development History
 
 Development of Constrained Cooking followed practices of [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s18/modules/project-management/).  Milestones are used to track the progress on groups of issues; they consist of tasks that take 2-3 days.  To manage progress within a Milestone, GitHub projects are created with three columns corresponding to: Backlog, In Progress, and Done.
