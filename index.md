@@ -31,12 +31,23 @@ User's are immediately brought to a landing page where they can see the theme of
 
 Users can then view the Recipe Homepage.  They do not need to create an account to scroll through the homepage or view recipe pages.  However, they can create an account to access more content.  If they find a recipe they want to view, they can click on the card which take them to the full recipe.
 
+<img src="images/user_edit.png"/>
 
 After logging in a user can view and edit their profile page.  They can modify their image along with dietay habits.
 
 <img src="images/addrecipenew.PNG"/>
 
-After being logged in, the user can also contribute their own recipes on the add recipe page.  THey can fill out the form and press submit.
+After being logged in, the user can also contribute their own recipes on the add recipe page.  They can fill out the form and press submit.
+
+
+<img src="images/vendor_view.png"/>
+<img src="images/all_items.png"/>
+<img src="images/vendor_items.png"/>
+
+Users can search through a list of vendors to see items sold on a vendor to vendor basis or look at all items as a whole.
+
+<img src="images/vendor_edit_1.png"/>
+<img src="images/vendor_edit_2.png"/>
 
 When a vendor is using the website, they can edit their current stock in the vendor homepage.  Here they can add items along with prices per unit.
 
@@ -52,10 +63,10 @@ He didn't really feel like the website was helpful because he doesn't have a fri
 
 Although she liked the visual appeal of the website, she truthfully said that she probably would not use the website very often. Since she dorms at UH, she is obligated to purchase a meal plan and thus doesn't have too much of a need to craft her own meals. One thing she did like about the application however, was the idea of having local farmers and distributors being able to have an online presence on the site. She liked the idea of the website being another place to promote eating local.
 
-#### Yuriko (Student who commutes)
-> I wish the vendor page had supermarket sales as well…
+#### Kazu-umi (Student who commutes)
+> The add recipie page was quite intuitive
 
-Since she commutes to school every day she was a little disappointed that the vendor page was only applicable to small-scale sellers, she was hoping that the site could be used by larger venders such as supermarkets to tell her when sales were going on. 
+She like the intuitive way recipes can be added onto the website. She also thought the way vendors were presented was interesting. 
 
 #### Robert (Works at UH)
 >Cool site.
@@ -63,9 +74,10 @@ Since she commutes to school every day she was a little disappointed that the ve
 He said that since he sometimes purchases produce from the vendors near the atm’s at campus center, the site could be potentially very useful to him. After trying the site out, he said that the homepage was very fitting for the website and that the navigation bar was intuitive and easy to use. 
 
 #### Emily(Engineer at Nan, Inc) 
->I like the idea.
+>I like the search bar!
 
-She though the website was a good idea and that the vendor page had a lot of potential. Since she does not frequent UH Manoa very often and is quite busy with work she probably wouldn’t really be able to utilize the website. She did say however that since her husband works nearby UH and does most of the cooking, he might be able to better use the site than her. 
+Emily said that, while she doesn't plan on using the website very often, she liked the search bar. She thought it was a nice touch to more easily navigate around recipes.
+
 
 ## Installation
 
@@ -90,6 +102,23 @@ Find the application at [http://localhost:3000](http://localhost:3000).
 # Development History
 
 Development of Constrained Cooking followed practices of [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s18/modules/project-management/).  Milestones are used to track the progress on groups of issues; they consist of tasks that take 2-3 days.  To manage progress within a Milestone, GitHub projects are created with three columns corresponding to: Backlog, In Progress, and Done.
+
+## [Milestone 3: Added more features](https://github.com/constrainedcooking/constrainedcooking/projects/3)
+This milestone started on April 24, 2018 and ended on May 4, 2018. Milestone 3 builds heavily from milestone 2 and adds more features to the base functionality created in milestone 2. The goal of milestone 3 was to improve capabilities as well as increase the amount of features in the website. In addition we also made the website as a whole more visually appealing and hopefully intuitive to use. Finally we increased the functionality of the main focus points of the website, these being the recipies and vendor sections. 
+
+For the vendor section:
+
+ -[x] Viewers of the site can now not only view recipies but also a full list of items solds by vendors
+
+ -[x] Viewers of the site can look at a list of vendors to view the specific items sold by a vendor
+
+ -[x] Vendors can update, add and delete items they sell or do not sell anymore
+
+Overall Milestone 3 represents the first full version of this website. We present a funcitonal, appealing and hopefully easy to use website for the cooking needs of students at UH Manoa.
+
+## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
+
+This milestone started on April 12, 2018 and ended on April 24, 2018.  The goal of this milestone was to improve functionality of the site.  This included implementing databases rather than using hardcoded items such as recipes, users, and tags.
 
 ## [Milestone 1: Mockup Development](https://github.com/constrainedcooking/constrainedcooking/projects/1)
 
@@ -128,11 +157,6 @@ The system also has a vendor role.  The page below shows how they can fill a for
 <img src="images/additem.PNG"/>
 
 Lastly, we also implemented a view [profile page](http://constrainedcooking.meteorapp.com/#/profileview).  This shows general information of the person's account.  It's currently in a card format, but we plan on changing it into a larger diaply which has a person's general information, along with dietary habits, and favorited recipes.
-
-## [Milestone 2: Add Functionality](https://github.com/constrainedcooking/constrainedcooking/projects/2)
-
-This milestone started on April 12, 2018 and ended on April 24, 2018.  The goal of this milestone was to improve functionality of the site.  This included implementing databases rather than using hardcoded items such as recipes, users, and tags.
-
 
 # About the Team
 
