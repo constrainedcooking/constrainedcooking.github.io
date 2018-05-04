@@ -29,7 +29,7 @@ User's are immediately brought to a landing page where they can see the theme of
 
 <img src="images/homepagenew.PNG"/>
 
-Users can then view the Recipe Homepage.  They do not need to create an account to scroll through the homepage or view recipe pages.  However, they can create an account to access more content.  If they find a recipe they want to view, they can click on the card which take them to the full recipe.
+Users can then view the Recipe Homepage.  They do not need to create an account to scroll through the homepage.  However, they can create an account to access more content.  If they find a recipe they want to view, they can click on the card which takes them to the full recipe after logging in.
 
 <img src="images/user_edit.png" width="350"/>
 
@@ -115,6 +115,12 @@ For the vendor section:
  * Viewers of the site can look at a list of vendors to view the specific items sold by a vendor
 
  * Vendors can update, add and delete items they sell or do not sell anymore
+ 
+For the recipes section:
+ 
+  * Users can use the search bar to find a recipe they want, and click on the link to redirect to the viewing page
+  
+  * The recipe pages were reformatted, and default recipes were filled in
 
 Overall Milestone 3 represents the first full version of this website. We present a funcitonal, appealing and hopefully easy to use website for the cooking needs of students at UH Manoa.
 
